@@ -13,6 +13,8 @@ public class MyApp : Gtk.Application {
         main_window.default_width = 300;
         main_window.title = "Hello World";
 
+        var label = new Gtk.Label ("Hello Again World!");
+        main_window.add (label, True, True, 0);
 
         var button_hello = new Gtk.Button.with_label ("Click me!");
         button_hello.margin = 12;

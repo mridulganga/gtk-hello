@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Mridul Ganga <mridul.kepler@gmail.com> -->
+<component type="desktop">
+  <id>com.github.mridulganga.gtk-hello.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Gtk Hello</name>
+  <summary>Says Hello</summary>
+  <description>
+    <p>Halo.</p>
+  </description>
+</component>
