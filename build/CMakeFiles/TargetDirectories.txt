@@ -1,0 +1,7 @@
+/home/mridul/Projects/gtk-hello/build/CMakeFiles/install/strip.dir
+/home/mridul/Projects/gtk-hello/build/CMakeFiles/edit_cache.dir
+/home/mridul/Projects/gtk-hello/build/CMakeFiles/com.github.mridulganga.gtk-hello.dir
+/home/mridul/Projects/gtk-hello/build/CMakeFiles/rebuild_cache.dir
+/home/mridul/Projects/gtk-hello/build/CMakeFiles/list_install_components.dir
+/home/mridul/Projects/gtk-hello/build/CMakeFiles/install/local.dir
+/home/mridul/Projects/gtk-hello/build/CMakeFiles/install.dir

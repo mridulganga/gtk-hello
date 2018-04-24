@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+9127faf517bd3b9133a347bb9fada9d2 com.github.mridulganga.gtk-hello_valac.stamp
+11cb54eb67f146d0727b0c42743e4995 src/gtk-hello.c
